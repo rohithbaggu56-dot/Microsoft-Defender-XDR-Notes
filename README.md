@@ -11,7 +11,7 @@
 
 ## Overview
 
-This repository contains structured notes created while studying Microsoft Defender XDR and Microsoft Defender for Endpoint through Microsoft Learn.
+This repository contains structured notes created while studying Microsoft Defender XDR and Microsoft Defender for Endpoint through Microsoft Learn. The notes summarize key concepts, workflows, and practical knowledge gained during the learning path.
 
 The goal of this repository is to document important security concepts, SOC workflows, investigation techniques, alert handling, endpoint protection, automation, and Kusto Query Language (KQL) used by Security Operations Center (SOC) analysts.
 
