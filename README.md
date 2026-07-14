@@ -42,14 +42,19 @@ This repository focuses on learning the platform, understanding detection and re
 - Threat detection concepts
 - SOC workflows
 
-## Detailed Notes
+## 📚 Detailed Notes
 
-- Mitigate Incidents
-- Defender for Endpoint Deployment
-- Alerts and Detections
-- Automation
-- Device Investigation
-- KQL
+- 📄 [01 - Mitigate Incidents](Docs/01-Mitigate-Incidents.md)
+
+- 📄 [02 - Deploy Defender for Endpoint](Docs/02-Deploy-Defender-for-Endpoint.md)
+
+- 📄 [03 - Alerts and Detections](Docs/03-Alerts-and-Detections.md)
+
+- 📄 [04 - Automation](Docs/04-Automation.md)
+
+- 📄 [05 - Device Investigation](Docs/05-Device-Investigation.md)
+
+- 📄 [06 - KQL](Docs/06-KQL.md)
 
 ## Note
 
